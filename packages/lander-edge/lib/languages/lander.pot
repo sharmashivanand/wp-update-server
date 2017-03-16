@@ -1,0 +1,1034 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lander Standalone\n"
+"POT-Creation-Date: 2015-08-21 12:23+0530\n"
+"PO-Revision-Date: 2015-08-21 12:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: Binary Turf Web Technologies <tech@binaryturf.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/admin/lander-admin.php:15 lib/admin/lander-branding-admin.php:15
+#: lib/admin/lander-design-settings.php:104
+msgid "genesis"
+msgstr ""
+
+#: lib/admin/lander-admin.php:16 lib/admin/lander-admin.php:17
+#: lib/functions/misc.php:188
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: lib/admin/lander-admin.php:49
+msgid "Google Fonts Fetcher"
+msgstr ""
+
+#: lib/admin/lander-admin.php:54
+msgid "Design Selector"
+msgstr ""
+
+#: lib/admin/lander-admin.php:59
+msgid "Widget Areas"
+msgstr ""
+
+#: lib/admin/lander-admin.php:64
+msgid "Mobile Template Settings"
+msgstr ""
+
+#: lib/admin/lander-admin.php:69
+msgid "Debug Tools"
+msgstr ""
+
+#: lib/admin/lander-admin.php:119
+msgid ""
+"<?php\n"
+"/******** Place all your wp/php tweaks here ****************/\n"
+"/******** This is your design functions.php file ******/\n"
+msgstr ""
+
+#: lib/admin/lander-admin.php:123 lib/functions/css-gen.php:1106
+msgid ""
+"/**************** Place all your css customizations in the style.scss file "
+"*****************/\n"
+"\n"
+msgstr ""
+
+#: lib/admin/lander-admin.php:231
+msgid ""
+"Updating Lander will overwrite the core designs inside Lander.\n"
+"If you haven't already done so, move them to lander-user&raquo;designs "
+"folder.\n"
+"Are you sure you ready to update Lander?. \"Cancel\" to stop, \"OK\" to "
+"update."
+msgstr ""
+
+#: lib/admin/lander-admin.php:247
+msgid "Google Fonts API Key"
+msgstr ""
+
+#: lib/admin/lander-admin.php:249
+msgid ""
+"A Google Fonts API Key allows you to get the latest fonts from Google &#40;"
+"else you can only use the ones that ship with Lander&#41;. <a href=\"https://"
+"developers.google.com/fonts/docs/developer_api#Auth\" target=\"_blank\">Get "
+"Google Fonts API Key here.</a>"
+msgstr ""
+
+#: lib/admin/lander-admin.php:270
+msgid "Please select a design to use. The following designs are available."
+msgstr ""
+
+#: lib/admin/lander-admin.php:278
+msgid "Designs"
+msgstr ""
+
+#: lib/admin/lander-admin.php:292
+msgid "Currently there are no customizations. But you can create one."
+msgstr ""
+
+#: lib/admin/lander-admin.php:298
+#, php-format
+msgid ""
+"Please go to <a href=\"%s\" >Lander Design</a> to set up the initial design."
+msgstr ""
+
+#: lib/admin/lander-admin.php:304
+msgid "Please edit the following file(s) to customize the design further."
+msgstr ""
+
+#: lib/admin/lander-admin.php:317
+msgid "Or create a new design"
+msgstr ""
+
+#: lib/admin/lander-admin.php:346
+msgid "Footer Widgets Support"
+msgstr ""
+
+#: lib/admin/lander-admin.php:377
+msgid "No. of Footer Widgets"
+msgstr ""
+
+#: lib/admin/lander-admin.php:405
+msgid "Widgets Above Header"
+msgstr ""
+
+#: lib/admin/lander-admin.php:430 lib/admin/lander-admin.php:529
+#: lib/admin/lander-admin.php:627
+msgid "Front Page"
+msgstr ""
+
+#: lib/admin/lander-admin.php:443 lib/admin/lander-admin.php:542
+#: lib/admin/lander-admin.php:640
+msgid "Posts Page"
+msgstr ""
+
+#: lib/admin/lander-admin.php:458 lib/admin/lander-admin.php:556
+#: lib/admin/lander-admin.php:654
+msgid "Home Page"
+msgstr ""
+
+#: lib/admin/lander-admin.php:471 lib/admin/lander-admin.php:568
+#: lib/admin/lander-admin.php:666
+msgid "Post"
+msgstr ""
+
+#: lib/admin/lander-admin.php:482 lib/admin/lander-admin.php:579
+#: lib/admin/lander-admin.php:677
+msgid "Page"
+msgstr ""
+
+#: lib/admin/lander-admin.php:493 lib/admin/lander-admin.php:590
+#: lib/admin/lander-admin.php:688
+msgid "Archives"
+msgstr ""
+
+#: lib/admin/lander-admin.php:504 lib/admin/lander-admin.php:601
+#: lib/admin/lander-admin.php:699
+msgid "404"
+msgstr ""
+
+#: lib/admin/lander-admin.php:512
+msgid "Widgets Below Header"
+msgstr ""
+
+#: lib/admin/lander-admin.php:610
+msgid "Widgets Above Footer"
+msgstr ""
+
+#: lib/admin/lander-admin.php:716
+msgid ""
+"Use these settings to globally enable disable the following elements on the "
+"site. These settings will only take effect when user is viewing the site on "
+"a mobile viewport."
+msgstr ""
+
+#: lib/admin/lander-admin.php:717
+#, php-format
+msgid ""
+"Note: You can also change these settings on a per page / post basis using "
+"the <strong>%s Mobile Experience</strong> metabox on the page / post edit "
+"screen."
+msgstr ""
+
+#: lib/admin/lander-admin.php:729 lib/functions/landing-page-settings.php:73
+#: lib/functions/landing-page-settings.php:87
+#: lib/functions/landing-page-settings.php:100
+#: lib/functions/landing-page-settings.php:115
+#: lib/functions/landing-page-settings.php:130
+#: lib/functions/mobile-template-settings.php:100
+#: lib/functions/mobile-template-settings.php:114
+#: lib/functions/mobile-template-settings.php:127
+#: lib/functions/mobile-template-settings.php:142
+#: lib/functions/mobile-template-settings.php:157
+msgid "Hide Breadcrumbs"
+msgstr ""
+
+#: lib/admin/lander-admin.php:749 lib/functions/landing-page-settings.php:162
+#: lib/functions/landing-page-settings.php:176
+#: lib/functions/landing-page-settings.php:189
+#: lib/functions/landing-page-settings.php:204
+#: lib/functions/landing-page-settings.php:219
+#: lib/functions/mobile-template-settings.php:189
+#: lib/functions/mobile-template-settings.php:203
+#: lib/functions/mobile-template-settings.php:216
+#: lib/functions/mobile-template-settings.php:231
+#: lib/functions/mobile-template-settings.php:246
+msgid "Hide Widgets Above Header"
+msgstr ""
+
+#: lib/admin/lander-admin.php:768 lib/functions/landing-page-settings.php:240
+#: lib/functions/landing-page-settings.php:254
+#: lib/functions/landing-page-settings.php:267
+#: lib/functions/landing-page-settings.php:282
+#: lib/functions/landing-page-settings.php:297
+#: lib/functions/mobile-template-settings.php:267
+#: lib/functions/mobile-template-settings.php:281
+#: lib/functions/mobile-template-settings.php:294
+#: lib/functions/mobile-template-settings.php:309
+#: lib/functions/mobile-template-settings.php:324
+msgid "Hide Widgets Below Header"
+msgstr ""
+
+#: lib/admin/lander-admin.php:787 lib/functions/landing-page-settings.php:318
+#: lib/functions/landing-page-settings.php:332
+#: lib/functions/landing-page-settings.php:345
+#: lib/functions/landing-page-settings.php:360
+#: lib/functions/landing-page-settings.php:375
+#: lib/functions/mobile-template-settings.php:345
+#: lib/functions/mobile-template-settings.php:359
+#: lib/functions/mobile-template-settings.php:372
+#: lib/functions/mobile-template-settings.php:387
+#: lib/functions/mobile-template-settings.php:402
+msgid "Hide Widgets Above Footer"
+msgstr ""
+
+#: lib/admin/lander-admin.php:806
+#: lib/functions/mobile-template-settings.php:432
+msgid "Hide Sidebar(s)"
+msgstr ""
+
+#: lib/admin/lander-admin.php:831 lib/functions/landing-page-settings.php:409
+#: lib/functions/mobile-template-settings.php:446
+msgid "Hide Footer Widgets"
+msgstr ""
+
+#: lib/admin/lander-admin.php:890
+msgid ""
+"For troubleshooting and debugging purposes, you can enable or disable "
+"certain functionality from right here."
+msgstr ""
+
+#: lib/admin/lander-admin.php:900
+msgid "Show default content in empty widget areas."
+msgstr ""
+
+#: lib/admin/lander-admin.php:911
+msgid "Uncheck to hide default content inside empty widget areas."
+msgstr ""
+
+#: lib/admin/lander-admin.php:933 lib/admin/lander-admin.php:950
+#, php-format
+msgid "Uncheck to disable user functions stored in %s."
+msgstr ""
+
+#: lib/admin/lander-admin.php:936
+msgid "Enable master &ldquo;functions.php&rdquo;."
+msgstr ""
+
+#: lib/admin/lander-admin.php:966 lib/admin/lander-admin.php:983
+#, php-format
+msgid "Uncheck to disable user styles stored in %s."
+msgstr ""
+
+#: lib/admin/lander-admin.php:969
+msgid "Enable master &ldquo;style.scss&rdquo;."
+msgstr ""
+
+#: lib/admin/lander-admin.php:1008
+msgid "Enable design specific &ldquo;functions.php&ldquo;."
+msgstr ""
+
+#: lib/admin/lander-admin.php:1041
+msgid "Enable design specific &ldquo;style.scss&rdquo;."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:16
+#: lib/admin/lander-branding-admin.php:17
+#, php-format
+msgid "%s Branding"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:65
+msgid "Current Favicon:"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:86
+msgid "Current Logo:"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:102
+msgid "Upload Favicon"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:109
+msgid "This will delete your previous favicon!"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:113
+msgid "Favicon Specifications &mdash;"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:116
+msgid "Must be 32px X 32px and must be of the type"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:124
+msgid "Upload Logo"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:130
+msgid "This will delete your previous logo!"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:151
+msgid "Logo Specifications &mdash;"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:155
+#, php-format
+msgid "The image should be at least %dpx wide (the largest column layout). "
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:158
+#, php-format
+msgid ""
+"The content inside the image should not exceed %dpx (the smallest column "
+"layout)."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:161
+#, php-format
+msgid ""
+"The trademark should be positioned at least %dpx away from the left edge of "
+"the image."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:164
+msgid "The trademark should be vertically centred in the image."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:167
+msgid ""
+"To create your logo, please use the default-logo.psd that you received with "
+"the purchase."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:172
+msgid "To remove logo or favicon just remove or rename those files."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:178
+msgid "Upload"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:180
+msgid "Maximum File Size:"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:185
+msgid "File Types:"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:228
+msgid "Favicon updated. Old favicon purged."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:230
+#: lib/admin/lander-branding-admin.php:255
+msgid "Couldn't move file."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:232
+msgid " Destination is not writable."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:236
+#: lib/admin/lander-branding-admin.php:261
+msgid "File type not allowed"
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:252
+msgid "Logo updated. Old logo purged."
+msgstr ""
+
+#: lib/admin/lander-branding-admin.php:257
+msgid "Destination is not writable."
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:105 lib/functions/misc.php:182
+#, php-format
+msgid "%s Design Settings"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:106
+#, php-format
+msgid "%s Design"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:256
+msgid "Layout Widths"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:261
+msgid "Layout Styles"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:266
+msgid "Body Font &amp; Globals"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:271
+msgid "Site Header"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:276
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:281
+msgid "Secondary Navigation Menu"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:286
+msgid "Content Headlines"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:291
+msgid "Byline and Post Meta Data"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:296
+msgid "Sidebars"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:301
+msgid "Footer Widgets"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:306
+msgid "Footer"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:499
+msgid "Select Layout Style"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:505
+msgid "Full-Width"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:508
+msgid "Page-Width"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:523
+msgid "Layout For bbPress"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:531
+msgid "Genesis Default"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:545
+msgid "Layout Colors"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:548
+msgid ""
+"Add some personal flair to your design by using the controls below. You'll "
+"find even more controls in the other boxes in this section, so you've got "
+"lots of ways to let your creativity flow!"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:557
+msgid "Body Background Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:575
+msgid "Wrap Background Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:603
+msgid "Genesis Layout Widths"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:606
+msgid ""
+"You can use these settings to specify the column widths and padding between "
+"the columns across all six Genesis layouts."
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:615
+msgid "Padding Between Columns"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:631
+msgid "Single Column Layout"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:640
+#: lib/admin/lander-design-settings.php:668
+#: lib/admin/lander-design-settings.php:712
+msgid "Content Column Width"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:654
+#: lib/admin/lander-design-settings.php:680
+#: lib/admin/lander-design-settings.php:724
+msgid ""
+"<strong>Tip: </strong>Make this a total of <span class=\"ans\"></span> to "
+"keep the page-width consistent across different layouts."
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:659
+msgid "Two Column Layout"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:688
+#: lib/admin/lander-design-settings.php:732
+msgid "Primary Sidebar Width"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:702
+msgid "Three Column Layout"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:749
+msgid "Secondary Sidebar Width"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:779
+msgid "Primary Font Family"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:801
+msgid "Primary Font Size"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:819
+#: lib/admin/lander-design-settings.php:2214
+msgid "Primary Font Variant"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:845
+#: lib/admin/lander-design-settings.php:1047
+#: lib/admin/lander-design-settings.php:1139
+#: lib/admin/lander-design-settings.php:1238
+#: lib/admin/lander-design-settings.php:1308
+#: lib/admin/lander-design-settings.php:1954
+#: lib/admin/lander-design-settings.php:2053
+#: lib/admin/lander-design-settings.php:2141
+#: lib/admin/lander-design-settings.php:2240
+#: lib/admin/lander-design-settings.php:2329
+#: lib/admin/lander-design-settings.php:2424
+msgid "Text Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:863
+msgid "Link Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:883
+msgid "Link Hover Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:902
+msgid "Form Fields Font Family"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:924
+msgid "Form-Fields Font Size"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:944
+msgid "Form Fields Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:973
+msgid "Customize The Look Of Site-Title."
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:982
+#: lib/admin/lander-design-settings.php:1074
+#: lib/admin/lander-design-settings.php:1173
+#: lib/admin/lander-design-settings.php:1261
+#: lib/admin/lander-design-settings.php:1337
+#: lib/admin/lander-design-settings.php:1889
+#: lib/admin/lander-design-settings.php:1988
+#: lib/admin/lander-design-settings.php:2076
+#: lib/admin/lander-design-settings.php:2175
+#: lib/admin/lander-design-settings.php:2264
+#: lib/admin/lander-design-settings.php:2359
+msgid "Font Family"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1003
+#: lib/admin/lander-design-settings.php:1095
+#: lib/admin/lander-design-settings.php:1194
+#: lib/admin/lander-design-settings.php:1358
+#: lib/admin/lander-design-settings.php:1631
+#: lib/admin/lander-design-settings.php:1910
+#: lib/admin/lander-design-settings.php:2009
+#: lib/admin/lander-design-settings.php:2097
+#: lib/admin/lander-design-settings.php:2196
+#: lib/admin/lander-design-settings.php:2285
+#: lib/admin/lander-design-settings.php:2380
+msgid "Font Size"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1021
+#: lib/admin/lander-design-settings.php:1113
+#: lib/admin/lander-design-settings.php:1212
+#: lib/admin/lander-design-settings.php:1282
+#: lib/admin/lander-design-settings.php:1376
+#: lib/admin/lander-design-settings.php:1649
+#: lib/admin/lander-design-settings.php:1928
+#: lib/admin/lander-design-settings.php:2027
+#: lib/admin/lander-design-settings.php:2115
+#: lib/admin/lander-design-settings.php:2303
+#: lib/admin/lander-design-settings.php:2398
+msgid "Font Variant"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1066
+msgid "Customize The Look Of Site-Tagline."
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1165
+msgid "Post Titles"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1253
+msgid "Headlines Inside The Post Body"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1402
+msgid "Nav Menu Text Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1420
+msgid "Nav Menu Hover Text Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1438
+#: lib/admin/lander-design-settings.php:1711
+msgid "Current Link Text Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1456
+#: lib/admin/lander-design-settings.php:1729
+msgid "Parent Nav Link Text Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1474
+msgid "Nav Menu Link Background Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1492
+msgid "Nav Menu Link Hover Background Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1510
+#: lib/admin/lander-design-settings.php:1783
+msgid "Current Link Background Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1528
+#: lib/admin/lander-design-settings.php:1801
+msgid "Parent Nav Link Background Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1546
+#: lib/admin/lander-design-settings.php:1819
+msgid "Nav Menu Border Width"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1564
+#: lib/admin/lander-design-settings.php:1837
+msgid "Nav Menu Border Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1582
+#: lib/admin/lander-design-settings.php:1855
+msgid "Submenu Width"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1675
+msgid "Menu Text Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1693
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1747
+msgid "Menu Link Background Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1765
+msgid "Menu Link Hover Background Color"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1881
+msgid ""
+"These settings affect the post bylines (entry-meta) of the posts & pages."
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:1980
+msgid "Sidebar Widget Headings"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:2068
+msgid "Sidebar Widget Body"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:2167
+msgid "Footer Widget Headings"
+msgstr ""
+
+#: lib/admin/lander-design-settings.php:2255
+msgid "Footer Widget Body"
+msgstr ""
+
+#: lib/functions/css-gen.php:1024
+#, php-format
+msgid "<p>Lander Notice: The %s file is not writable.</p>"
+msgstr ""
+
+#: lib/functions/css-gen.php:1081
+msgid ""
+"Do not edit this file directly. It's always overwritten upon saving of "
+"settings."
+msgstr ""
+
+#: lib/functions/css-gen.php:1110
+msgid ""
+"<?php\n"
+"/******** Place all your wp/php tweaks here ****************/\n"
+"/******** This is your master functions.php file ******/\n"
+msgstr ""
+
+#: lib/functions/lander-custom-template-box.php:16
+msgid "Template"
+msgstr ""
+
+#: lib/functions/lander-custom-template-box.php:34
+msgid "Select the page template to use"
+msgstr ""
+
+#: lib/functions/landing-page-settings.php:13
+#, php-format
+msgid "%s Landing Page Experience"
+msgstr ""
+
+#: lib/functions/landing-page-settings.php:54
+#: lib/functions/mobile-template-settings.php:81
+msgid "Hide Header"
+msgstr ""
+
+#: lib/functions/landing-page-settings.php:144
+#: lib/functions/mobile-template-settings.php:171
+msgid "Hide Page Title"
+msgstr ""
+
+#: lib/functions/landing-page-settings.php:392
+#: lib/functions/mobile-template-settings.php:419
+msgid "Hide After Entry Widgets"
+msgstr ""
+
+#: lib/functions/landing-page-settings.php:421
+#: lib/functions/mobile-template-settings.php:458
+msgid "Hide Footer"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:11
+msgid "Landing Section After Header First"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:17
+msgid "Landing Section After Header Second"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:23
+msgid "Landing Section After Header Third"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:30
+msgid "Landing Section Before Footer First"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:36
+msgid "Landing Section Before Footer Second"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:42
+msgid "Landing Section Before Footer Third"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:101
+#, php-format
+msgid "%s Landing Sections"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:108
+msgid "Lander Landing Pages Sections are not available on the posts page."
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:172
+msgid "Hide on Desktop"
+msgstr ""
+
+#: lib/functions/landing-sections-mgt.php:186
+msgid "Hide on Mobile"
+msgstr ""
+
+#: lib/functions/menu-mgt.php:15
+#, php-format
+msgid "%s Custom Menu Locations"
+msgstr ""
+
+#: lib/functions/menu-mgt.php:203
+msgid "Custom Menu Settings"
+msgstr ""
+
+#: lib/functions/menu-mgt.php:212
+msgid "Theme Location"
+msgstr ""
+
+#: lib/functions/menu-mgt.php:215
+msgid "Assigned Menu"
+msgstr ""
+
+#: lib/functions/misc.php:461
+msgid "Copyright"
+msgstr ""
+
+#: lib/functions/misc.php:461
+msgid "All Rights Reserved"
+msgstr ""
+
+#: lib/functions/misc.php:461
+msgid "Powered by"
+msgstr ""
+
+#: lib/functions/misc.php:594
+msgid "Read more"
+msgstr ""
+
+#: lib/functions/misc.php:605
+msgid "Newer"
+msgstr ""
+
+#: lib/functions/misc.php:615
+msgid "Older"
+msgstr ""
+
+#: lib/functions/misc.php:649
+msgid "Layout Settings"
+msgstr ""
+
+#: lib/functions/misc.php:921
+msgid "Before Header Widget Area"
+msgstr ""
+
+#: lib/functions/misc.php:949
+msgid "After Header Widget Area"
+msgstr ""
+
+#: lib/functions/misc.php:976
+msgid "Above Footer Widget Area"
+msgstr ""
+
+#: lib/functions/misc.php:991
+msgid "Before Header"
+msgstr ""
+
+#: lib/functions/misc.php:993
+msgid "These widgets will show up above the header."
+msgstr ""
+
+#: lib/functions/misc.php:996
+msgid "After Header"
+msgstr ""
+
+#: lib/functions/misc.php:998
+msgid "These widgets will show up below the header."
+msgstr ""
+
+#: lib/functions/misc.php:1001
+msgid "Above Footer"
+msgstr ""
+
+#: lib/functions/misc.php:1003
+msgid ""
+"These widgets will show up above the footer or the footer widgets if they "
+"are enabled."
+msgstr ""
+
+#: lib/functions/misc.php:1087
+msgid "Lander Help &amp; Support"
+msgstr ""
+
+#: lib/functions/misc.php:1091
+msgid "Lander Docs &amp; References"
+msgstr ""
+
+#: lib/functions/misc.php:1094
+msgid "Getting Started with Lander"
+msgstr ""
+
+#: lib/functions/misc.php:1097
+msgid "Lander Forums"
+msgstr ""
+
+#: lib/functions/misc.php:1100
+msgid "Report a Bug"
+msgstr ""
+
+#: lib/functions/misc.php:1103
+msgid "Tweet us your new design"
+msgstr ""
+
+#: lib/functions/misc.php:1114
+msgid "Share Your Success Story"
+msgstr ""
+
+#: lib/functions/misc.php:1116
+#, php-format
+msgid ""
+"Share you success story with Lander. And we may even feature you in our "
+"%sfeatured developers%s list!"
+msgstr ""
+
+#: lib/functions/misc.php:1117
+msgid "Share your success story!"
+msgstr ""
+
+#: lib/functions/misc.php:1118
+#, php-format
+msgid "%s%s%s"
+msgstr ""
+
+#: lib/functions/mobile-template-settings.php:14
+#, php-format
+msgid "%s Mobile Experience"
+msgstr ""
+
+#: lib/functions/mobile-template-settings.php:61
+msgid ""
+"The elements you hide here will be hidden from users visiting your site on "
+"mobile, but will still be visible to users on other viewports."
+msgstr ""
+
+#: lib/functions/mobile-template-settings.php:63
+#, php-format
+msgid ""
+"These options will override the global settings as set on <a href=\"%s\">%s "
+"Settings</a> screen."
+msgstr ""
+
+#: lib/functions/mobile-template-settings.php:71
+msgid "Use global settings"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:11
+msgid "Default (Creative Work)"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:16
+msgid "About Page"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:21
+msgid "Contact Page"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:26
+msgid "Profile Page"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:31
+msgid "QA Page"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:36
+msgid "Article"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:41
+msgid "Review"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:46
+msgid "Recipe"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:83
+#, php-format
+msgid "%s Schema"
+msgstr ""
+
+#: lib/functions/schema-mgt.php:100
+msgid "Lander Schema is not available on on the posts page."
+msgstr ""
+
+#: lib/functions/schema-mgt.php:107
+msgid ""
+"Depending on the semantics of this content you may select a specific schema "
+"to override the default."
+msgstr ""
+
+#: lib/functions/shortcodes.php:121
+msgid "Click here to read more"
+msgstr ""
+
+#: lib/init.php:159
+#, php-format
+msgid "%s updated. &mdash; You're all set to flaunt the new goods!%s"
+msgstr ""
+
+#: lib/init.php:167
+#, php-format
+msgid "%sYou're now rocking %s &mdash; %s!%s"
+msgstr ""
